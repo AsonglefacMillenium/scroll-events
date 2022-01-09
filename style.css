@@ -1,0 +1,23 @@
+.landing {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    background-color: aqua;
+}
+
+.scroll-container {
+    background-color: azure;
+    width: 100vw;
+    height: 100vh;
+}
+
+.js-scroll {
+    width: 50%;
+    height: 300px;
+    background-color: yellow;
+    transition: background-color 500ms;
+}
+
+.js-scroll.scrolled {
+    background-color: aquamarine;
+}
