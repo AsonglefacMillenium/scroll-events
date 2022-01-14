@@ -15,7 +15,7 @@
     width: 50%;
     height: 300px;
     background-color: yellow;
-    transition: background-color 500ms;
+    transition: 500ms;
 }
 
 .js-scroll.scrolled {
